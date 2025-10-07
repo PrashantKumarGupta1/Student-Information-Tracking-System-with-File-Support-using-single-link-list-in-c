@@ -44,11 +44,11 @@ A **menu-driven Student Record Management System** written in **C Programming La
 
 1. **Compile the program**:
 
-```bash
+```
 gcc main.c -o student_system
 ```
 2. **Run the executable**:
-```bash
+```
 ./student_system
 ```
 3. **Follow the interactive menu to perform operations like adding, displaying, editing, deleting, or searching student records**:
