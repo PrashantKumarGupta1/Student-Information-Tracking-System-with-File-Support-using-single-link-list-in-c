@@ -52,7 +52,8 @@ gcc main.c -o student_system
 ./student_system
 ```
 3. **Follow the interactive menu to perform operations like adding, displaying, editing, deleting, or searching student records**:
-```bash
+```
+**📸 Sample Output (Optional – You can add screenshots)**
 1) Add student data
 2) Show all student data
 3) Save student data in file
