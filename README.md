@@ -1,6 +1,6 @@
 # Student Record Management System in C
 
-A **menu-driven Student Record Management System** written in **C**, designed to manage student data efficiently using **singly linked lists**. This system allows dynamic handling of student records in memory, as well as persistent storage using files.
+A **menu-driven Student Record Management System** written in **C Programming Language**, designed to manage student data efficiently using **singly linked lists**. This system allows dynamic handling of student records in memory, as well as persistent storage using files.
 
 ---
 
