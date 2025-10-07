@@ -32,8 +32,8 @@ A **menu-driven Student Record Management System** written in **C Programming La
 
 ## 🗂️ Project Structure
 
-```📁 /Student-Record-Management-System-C
-
+📁 /Student-Record-Management-System-C
+```
 ├── main.c               # Full source code
 ├── students.txt         # Example data file (if available)
 └── README.md            # This file
