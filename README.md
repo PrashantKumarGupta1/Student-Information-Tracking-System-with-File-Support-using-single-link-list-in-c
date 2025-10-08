@@ -34,10 +34,10 @@ A **menu-driven Student Record Management System** written in **C Programming La
 
 ```
 📁 /Student-Record-Management-System-C
-├── main.c               # Full source code
-├── students.txt         # Example data file (if available)
-├── README.md            # Project documentation
-└── .gitignore           # Git ignore file
+├── .gitignore          # Git ignore file
+├── README.md           # Project documentation
+├── main.c              # Full source code
+└── students.txt        # Example data file
 
 ```
 ---
