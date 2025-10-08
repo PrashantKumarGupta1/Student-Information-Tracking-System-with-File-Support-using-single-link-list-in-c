@@ -1,0 +1,80 @@
+📄 students.txt
+
+B2025_001  Rahul Sharma  89.5  Passed  15-03-2004  05-08-2025
+B2025_002  Priya Verma  76.0  Passed  22-07-2004  05-08-2025
+B2025_003  Arjun Singh  67.0  Passed  05-01-2003  05-08-2025
+B2025_004  Sneha Gupta  93.0  Passed  19-10-2004  05-08-2025
+
+
+
+Example Input (User typing during program execution):
+
+student batch_id:
+B2025_001
+student name:
+Rahul Sharma
+student marks:
+89.5
+student assessment_status:
+Passed
+student birth date (DD MM YYYY):
+15 03 2004
+student join date (DD MM YYYY):
+05 08 2025
+
+Student added successfully!
+
+
+student batch_id:
+B2025_002
+student name:
+Priya Verma
+student marks:
+76.0
+student assessment_status:
+Passed
+student birth date (DD MM YYYY):
+22 07 2004
+student join date (DD MM YYYY):
+05 08 2025
+
+Student added successfully!
+
+
+student batch_id:
+B2025_003
+student name:
+Arjun Singh
+student marks:
+67.0
+student assessment_status:
+Passed
+student birth date (DD MM YYYY):
+05 01 2003
+student join date (DD MM YYYY):
+05 08 2025
+
+Student added successfully!
+
+
+student batch_id:
+B2025_004
+student name:
+Sneha Gupta
+student marks:
+93.0
+student assessment_status:
+Passed
+student birth date (DD MM YYYY):
+19 10 2004
+student join date (DD MM YYYY):
+05 08 2025
+
+Student added successfully!
+
+✅ Notes:
+
+Fields order exactly matches your struct:
+
+batch_id  name  marks  assessment_status  DOB(day-month-year)  DOJ(day-month-year)
+
