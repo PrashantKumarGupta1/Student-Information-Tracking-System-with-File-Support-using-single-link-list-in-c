@@ -74,7 +74,8 @@ Student added successfully!
 
 ✅ Notes:
 
-Fields order exactly matches your struct:
+Fields order exactly matches this structure:
 
 batch_id  name  marks  assessment_status  DOB(day-month-year)  DOJ(day-month-year)
+
 
