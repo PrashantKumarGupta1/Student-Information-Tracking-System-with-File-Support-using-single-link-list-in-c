@@ -18,7 +18,7 @@ student marks:
 student assessment_status:
 Passed
 student birth date (DD MM YYYY):
-15 03 2004
+15 03 2012
 student join date (DD MM YYYY):
 05 08 2025
 
@@ -34,7 +34,7 @@ student marks:
 student assessment_status:
 Passed
 student birth date (DD MM YYYY):
-22 07 2004
+22 07 2012
 student join date (DD MM YYYY):
 05 08 2025
 
@@ -50,7 +50,7 @@ student marks:
 student assessment_status:
 Passed
 student birth date (DD MM YYYY):
-05 01 2003
+05 01 2012
 student join date (DD MM YYYY):
 05 08 2025
 
@@ -66,7 +66,7 @@ student marks:
 student assessment_status:
 Passed
 student birth date (DD MM YYYY):
-19 10 2004
+19 10 2012
 student join date (DD MM YYYY):
 05 08 2025
 
@@ -77,6 +77,7 @@ Student added successfully!
 Fields order exactly matches this structure:
 
 batch_id  name  marks  assessment_status  DOB(day-month-year)  DOJ(day-month-year)
+
 
 
 
