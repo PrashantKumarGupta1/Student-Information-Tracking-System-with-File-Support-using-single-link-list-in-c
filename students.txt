@@ -1,9 +1,9 @@
 📄 students.txt
 
-B2025_001  Rahul Sharma  89.5  Passed  15-03-2004  05-08-2025
-B2025_002  Priya Verma  76.0  Passed  22-07-2004  05-08-2025
-B2025_003  Arjun Singh  67.0  Passed  05-01-2003  05-08-2025
-B2025_004  Sneha Gupta  93.0  Passed  19-10-2004  05-08-2025
+B2025_001  Rahul Sharma  89.5  Passed  15-03-2012  05-08-2025
+B2025_002  Priya Verma  76.0  Passed  22-07-2012  05-08-2025
+B2025_003  Arjun Singh  67.0  Passed  05-01-2012  05-08-2025
+B2025_004  Sneha Gupta  93.0  Passed  19-10-2012  05-08-2025
 
 
 
@@ -77,5 +77,6 @@ Student added successfully!
 Fields order exactly matches this structure:
 
 batch_id  name  marks  assessment_status  DOB(day-month-year)  DOJ(day-month-year)
+
 
 
