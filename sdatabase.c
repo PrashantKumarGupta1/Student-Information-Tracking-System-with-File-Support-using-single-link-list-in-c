@@ -38,7 +38,7 @@ void main()
     sll *headptr = 0;
     while (1)
     {
-        printf("1)Add student data\n2)Show all student data\n3)Save student data in file\n4)Read student data from file\n5)Update student data in file\n6)Delete student data in file\n7)Search student bantch\n8)Search_student_name\n9)Short student data base on assessment\n10)Search student base birth date\n11)Search student base join date\n12)Short student marks in range\n13)exit\n");
+        printf("1)Add student data\n2)Show all student data\n3)Save student data in file\n4)Read student data from file\n5)Update student data in file\n6)Delete student data in file\n7)Search student batch\n8)Search_student_name\n9)Short student data base on assessment\n10)Search student base birth date\n11)Search student base join date\n12)Short student marks in range\n13)exit\n");
         printf("Enter a op no:\n");
         scanf("%d", &op);
         switch (op)
