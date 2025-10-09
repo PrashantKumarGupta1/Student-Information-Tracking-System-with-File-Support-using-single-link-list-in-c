@@ -75,9 +75,9 @@ Prashant Kumar Gupta
 
 Embedded Systems Enthusiast | C Programmer | Linux & ARM
 
-📧 **Email:** [guptaprashant1012@gmail.com](mailto:guptaprashant1012@gmail.com)  
-🌐 **GitHub:** [github.com/PrashantKumarGupta1](https://github.com/PrashantKumarGupta1)                                                           
-💼 **LinkedIn:** [linkedin.com/in/prashant-embedded](https://www.linkedin.com/in/prashant-embedded) 
+[LinkedIn](https://www.linkedin.com/in/prashant-embedded)  
+[GitHub](https://github.com/PrashantKumarGupta1)  
+[Email](mailto:guptaprashant1012@gmail.com)
 
 📝 License
 
