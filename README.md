@@ -77,7 +77,7 @@ Embedded Systems Enthusiast | C Programmer | Linux & ARM
 
 [LinkedIn](https://www.linkedin.com/in/prashant-embedded)  
 [GitHub](https://github.com/PrashantKumarGupta1)  
-Gmail: guptaprashant1012@gmail.com
+Gmail: [guptaprashant1012@gmail.com]
 
 📝 License
 
