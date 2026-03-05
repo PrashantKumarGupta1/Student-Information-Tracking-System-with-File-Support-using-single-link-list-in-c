@@ -71,9 +71,9 @@ gcc main.c -o student_system
 
 ✍️ Author
 
-Prashant Kumar Gupta
+**Prashant Kumar Gupta**
 
-Embedded Systems Enthusiast | C Programmer | Linux & ARM
+*Embedded Systems Enthusiast | C Programmer | Linux & ARM*
 
 [LinkedIn](https://www.linkedin.com/in/prashant-embedded)  
 [GitHub](https://github.com/PrashantKumarGupta1)  
